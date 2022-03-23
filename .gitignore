@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.dbf
+*.pdf
+*.prj
+*.sbn
+*.shp
+*.shx
+*.zip
+*.ini
+*.zip tmp
+tmp/
